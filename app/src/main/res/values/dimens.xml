@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="item_horizontal_margin">8dp</dimen>
+    <dimen name="thirty_dp">30dp</dimen>
+    <dimen name="eight_sp">8sp</dimen>
+    <dimen name="twenty_four_sp">24sp</dimen>
+    <dimen name="twenty_sp">20sp</dimen>
+</resources>

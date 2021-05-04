@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">smartread</string>
+    <string name="loading_units">Error Loading units</string>
+    <string name="user_id">Your Id</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="payment_history">Payment History</string>
+    <string name="required_amount">Required Amount</string>
+    <string name="amount_paid">Amount Paid</string>
+    <string name="balance">Balance</string>
+    <string name="proceed_to_courses">proceed to Units</string>
+    <string name="low_payment">*Sorry your payment is below 50% make payment so you can process</string>
+    <string name="success_payment">*Your Payment is above 50% You can proceed to your Course</string>
+    <string name="reg_no">Reg No.</string>
+    <string name="check_the_repository">Check The Repository</string>
+</resources>
